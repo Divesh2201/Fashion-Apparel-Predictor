@@ -1,4 +1,7 @@
 # Fashion-Apparel Predictor
+<br>
+[![](https://img.shields.io/github/license/Divesh2201/Fashion-Apparel-Predictor?color=blue)](https://opensource.org/licenses/MIT "MIT Licence")
+<br>
 ![fashion_mnist_header](https://user-images.githubusercontent.com/52334437/72321676-891e9d00-36ca-11ea-8ff2-f803c5ff58bb.png)
 
 A Neural Network model that predicts the type of clothing / apparel by learning through train images.
