@@ -1,7 +1,10 @@
-# Fashion-Apparel Predictor
-<br>
-[![](https://img.shields.io/github/license/Divesh2201/Fashion-Apparel-Predictor?color=blue)](https://opensource.org/licenses/MIT "MIT Licence")
-<br>
+<h1 align="centre">:boot::jeans::shirt:Fashion-Apparel-Predictor:dress::womans_clothes::high_heel:
+
+[![](https://img.shields.io/badge/Made%20With-Tensorflow-orange?style=for-the-badge&logo=Tensorflow)](https://www.tensorflow.org "Tensorflow")
+[![](https://img.shields.io/badge/Made_with-Keras-red?style=for-the-badge&logo=kaiOS)](https://keras.io "Keras")
+[![](https://img.shields.io/badge/Made%20With-Python-informational?style=for-the-badge&logo=Python)](https://www.python.org "Python")
+
+---
 ![fashion_mnist_header](https://user-images.githubusercontent.com/52334437/72321676-891e9d00-36ca-11ea-8ff2-f803c5ff58bb.png)
 
 A Neural Network model that predicts the type of clothing / apparel by learning through train images.
