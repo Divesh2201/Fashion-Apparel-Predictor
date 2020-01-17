@@ -1,4 +1,4 @@
-<h1 align="centre">:boot::jeans::shirt:Fashion-Apparel-Predictor:dress::womans_clothes::high_heel:
+<h1 align="centre">:boot::jeans::shirt:Fashion-Apparel-Predictor:dress::womans_clothes::high_heel: </h1>
 
 [![](https://img.shields.io/badge/Made%20With-Tensorflow-orange?style=for-the-badge&logo=Tensorflow)](https://www.tensorflow.org "Tensorflow")
 [![](https://img.shields.io/badge/Made_with-Keras-red?style=for-the-badge&logo=kaiOS)](https://keras.io "Keras")
