@@ -3,9 +3,9 @@
 
 A Neural Network model that predicts the type of clothing / apparel by learning through train images.
 
- ### -Language: `Python3`  :snake:
- ### -Library: `Tensorflow 2.0` and `Keras`
- ### -Dataset: Fashion_mnist
+ ### Language: `Python3`  :snake:
+ ### Library: `Tensorflow 2.0` and `Keras`
+ ### Dataset: Fashion_mnist
 
 A gist from the model Training itself on **60000** samples...
 ![Screenshot from 2020-01-14 12-19-42](https://user-images.githubusercontent.com/52334437/72321988-414c4580-36cb-11ea-9644-e75539c7164f.png)
