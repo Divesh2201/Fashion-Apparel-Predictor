@@ -16,5 +16,4 @@ Then the model Predicts on **10000** test image samples which it has not seen be
 And then we can verify on the test images and the models predictions...
 ![Screenshot from 2020-01-14 12-20-17](https://user-images.githubusercontent.com/52334437/72322293-0860a080-36cc-11ea-8b6f-da0a9ebd8429.png)
 #### This is my first project with `Tensorflow 2.0` 
-> Making the beginning is One-Third of the work
 #### Made with :heart: by Divesh Thakker :blush:
